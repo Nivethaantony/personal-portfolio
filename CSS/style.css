@@ -1,63 +1,59 @@
- 
 .container {
   width: 50%;
   margin: 0 auto 0 auto;
   background-color: teal;
-  background-image: url('../images/hello.jpg');
+  background-image: url("../images/hello.jpg");
   background-repeat: no-repeat;
-  background-attachment:fixed;
-  background-position:center;
-  background-size:cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
-.name
-{
+.name {
   box-sizing: border-box;
-  margin-top:30px;   
-  padding-top:20px;  
-  margin-bottom:10px; 
+  margin-top: 30px;
+  padding-top: 20px;
+  margin-bottom: 10px;
   border: none;
 }
 .connect {
   box-sizing: border-box;
-  margin-top:10px;
+  margin-top: 10px;
   margin-bottom: 10px;
-  padding-top:20px;
+  padding-top: 20px;
   padding-bottom: 20px;
-  border:none;
+  border: none;
 }
-.obj
-{
+.obj {
   box-sizing: border-box;
-  margin-top:10px;
-  padding-top:20px; 
+  margin-top: 10px;
+  padding-top: 20px;
   margin-bottom: 10px;
-  padding-bottom: 20px;  
-  border:none; 
+  padding-bottom: 20px;
+  border: none;
 }
 .tablename {
   color: green;
   box-sizing: border-box;
-  margin-top:10px;  
-  padding-top:20px;  
+  margin-top: 10px;
+  padding-top: 20px;
   border: dotted;
 }
-.skill 
-{
+.skill {
   box-sizing: border-box;
-  margin-top: 10px;   
-  padding-top: 10px;    
+  margin-top: 10px;
+  padding-top: 10px;
   padding-bottom: 10px;
-  margin-bottom: 10px;  
+  margin-bottom: 10px;
   border: none;
 }
 table.Nive {
   color: indianred;
   box-sizing: border-box;
-  margin-top:20px;  
-  padding-top:20px;  
+  margin-top: 20px;
+  padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 20px;
-  border:none;
+  border: none;
 }
 h1,
 h3,
@@ -66,8 +62,3 @@ h5 {
   color: brown;
   text-decoration: underline;
 }
-body {
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-}
- 
