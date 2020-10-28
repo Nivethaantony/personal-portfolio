@@ -2,6 +2,12 @@
 .container {
   width: 50%;
   margin: 0 auto 0 auto;
+  background-color: teal;
+  background-image: url('../images/hello.jpg');
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position:center;
+  background-size:cover;
 }
 .name
 {
