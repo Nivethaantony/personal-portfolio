@@ -1,12 +1,17 @@
+.nav a:hover
+{
+  background-color: lawngreen;
+  color: crimson;
+}
 .container {
   width: 50%;
   margin: 0 auto 0 auto;
-  background-color: teal;
-  background-image: url("../images/hello.jpg");
+  background-color:red;
+  background-image:url("../images/hello.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: cover;
+  background-size:initial;
 }
 .name {
   box-sizing: border-box;
